@@ -87,7 +87,7 @@ terraform destroy
 
 ## 📷 Ejemplo
 
-![arquitectura](diagrams/architecture.png)
+![Arquitectura del proyecto](diagram.png)
 
 ---
 
